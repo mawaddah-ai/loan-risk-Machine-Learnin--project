@@ -1,6 +1,6 @@
 # loan-risk-Machine-Learnin--project
  machine learning project  focusing on loan default risk modeling using supervised and unsupervised learning techniques on a large-scale financial datase
-##About
+## About
 This project is a hands-on ML playground focused on:
 - Data preprocessing and cleaning
 - Handling missing values and outliers
@@ -8,13 +8,13 @@ This project is a hands-on ML playground focused on:
 - Supervised learning models
 - Unsupervised learning and clustering
 
-##Dataset
+## Dataset
 - **Source:** Loan Default Dataset (Kaggle)
 - **Link:** https://www.kaggle.com/datasets/williamhager/loan-default
 - **Domain:** Finance / Credit Risk
 - **Size:** Large-scale, high-dimensional dataset
 
-##Models Used
+## Models Used
 ### Supervised
 - XGBoost Classifier
 - Decision Tree Classifier
@@ -24,7 +24,7 @@ This project is a hands-on ML playground focused on:
 - K-Means Clustering
 - PCA for visualization and dimensionality reduction
 
-##Evaluation
+## Evaluation
 - Accuracy
 - Precision
 - Recall
@@ -33,7 +33,7 @@ This project is a hands-on ML playground focused on:
 - Confusion Matrix
 - Silhouette Score
 
-##Tools & Libraries
+## Tools & Libraries
 - Python
 - pandas, numpy
 - scikit-learn
