@@ -1,5 +1,5 @@
 # loan-risk-Machine-Learnin--project
- machine learning project  focusing on loan default risk modeling using supervised and unsupervised learning techniques on a large-scale financial datase
+ machine learning project  focusing on loan default risk modeling using supervised and unsupervised learning techniques on a large-scale financial dataset
 ## About
 This project is a hands-on ML playground focused on:
 - Data preprocessing and cleaning
